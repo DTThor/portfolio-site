@@ -44,11 +44,11 @@ a:hover {
   transform: scale(1.2);
 }
 
-#galvanize:hover {
+#text-link:hover {
   text-decoration: none;
   color: #EF233C
 }
-#galvanize {
+#text-link {
   color: #EDF2F4;
 }
 .content-wrap {
