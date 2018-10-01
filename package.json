@@ -5,7 +5,7 @@
   "main": "index.html",
   "scripts": {
     "start": "node server.js",
-    "surge": "surge --project --domain https://dylanthorwaldson.surge.sh"
+    "surge": "surge --domain https://dylanthorwaldson.surge.sh"
   },
   "author": "",
   "license": "ISC",
